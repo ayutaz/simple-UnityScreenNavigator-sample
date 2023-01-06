@@ -1,5 +1,12 @@
 {
   "dependencies": {
+    "com.harumak.unityscreennavigator": {
+      "version": "https://github.com/Haruma-K/UnityScreenNavigator.git?path=/Assets/UnityScreenNavigator",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "1abd4de4d1ffbf50bdd10a5122461c563cc09295"
+    },
     "com.unity.2d.animation": {
       "version": "9.0.1",
       "depth": 1,
@@ -156,6 +163,15 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.inputsystem": {
+      "version": "1.4.4",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.uielements": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.mathematics": {
       "version": "1.2.6",
       "depth": 2,
@@ -168,6 +184,15 @@
       "depth": 2,
       "source": "registry",
       "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.recorder": {
+      "version": "4.0.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.timeline": "1.0.0"
+      },
       "url": "https://packages.unity.com"
     },
     "com.unity.services.core": {
