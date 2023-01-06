@@ -13,6 +13,17 @@ UnityScreenNavigatorを使った画面遷移等のシンプルな実装サンプ
 
 # Demo
 
+## Demo Site
+
+## Demo Image
+
+* Page
+
+![](Docs/Demo/PageDemo.gif)
+
 # requirements
 
 * Unity 2022.2.0f1
+* UniTask(imported)
+* UniRx(imported)
+* UnityScreenNavigator(imported)
