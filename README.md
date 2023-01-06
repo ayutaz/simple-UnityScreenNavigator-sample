@@ -7,6 +7,8 @@ UnityScreenNavigatorを使った画面遷移等のシンプルな実装サンプ
 **Table of Contents**
 
 - [Demo](#demo)
+  - [Demo Site](#demo-site)
+  - [Demo Image](#demo-image)
 - [requirements](#requirements)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
