@@ -2,6 +2,9 @@
 
 UnityScreenNavigatorを使った画面遷移等のシンプルな実装サンプル
 
+<!-- START doctoc -->
+<!-- END doctoc -->
+
 # Demo
 
 # requirements
