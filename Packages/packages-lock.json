@@ -7,6 +7,13 @@
       "dependencies": {},
       "hash": "1abd4de4d1ffbf50bdd10a5122461c563cc09295"
     },
+    "com.neuecc.unirx": {
+      "version": "7.1.0",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://package.openupm.com"
+    },
     "com.unity.2d.animation": {
       "version": "9.0.1",
       "depth": 1,
