@@ -15,13 +15,16 @@ UnityScreenNavigatorを使った画面遷移等のシンプルな実装サンプ
 
 # Demo
 
-## Demo Site
+[Demo Site]()
 
 ## Demo Image
 
-* Page
+### Page
 
 ![](Docs/Demo/PageDemo.gif)
+
+### Modal
+![](Docs/Demo/ModalDemo.gif)
 
 # requirements
 
