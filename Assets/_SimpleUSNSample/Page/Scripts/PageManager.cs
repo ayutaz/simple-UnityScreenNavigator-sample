@@ -2,7 +2,6 @@ using System;
 using System.Threading.Tasks;
 using UniRx;
 using UnityEngine;
-using UnityEngine.InputSystem.Utilities;
 using UnityScreenNavigator.Runtime.Core.Page;
 using Observable = UniRx.Observable;
 
